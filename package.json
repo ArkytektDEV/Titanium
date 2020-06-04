@@ -1,0 +1,17 @@
+{
+  "name": "titanium",
+  "version": "1.0.0",
+  "description": "Death from above.",
+  "main": "sharding.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ANthony Bath",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "discord.js": "^12.2.0",
+    "os-utils": "0.0.14",
+    "rethinkdb": "^2.4.2"
+  }
+}
